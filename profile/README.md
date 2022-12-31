@@ -29,20 +29,6 @@ me.say_hi()
 	<a href="https:/github.com/Toxinum"><img src="https://komarev.com/ghpvc/?username=Toxinum&label=Profile%20views&color=0e75b6&style=flat"
 			title="Profile Vews"></a>
 </div>
-<hr>
-<div align="center">
-	<p align='center'>
-		<a href="#"><img
-				src="https://github-readme-stats.vercel.app/api?username=Toxinum&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"
-				width="400" title="Toxinum's Github Starts"></a>
-	</p>
-	<p align='center'>
-		<a href="#"><img
-				src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Toxinum&layout=compact&theme=chartreuse-dark"
-				width="400" title="Most Used Languages"></a></p>
-        <p align='center'>
-                <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Toxinum&theme=dark" width="400" title="Github Streak Stats"></a></p>
-	<p align='center'>
 <h3 align="center"> Social Media Links:</h3>
 	<a href="https://Toxinum.github.io/" class="main">Github Profile Website</a><br><br>
 </div>
@@ -68,10 +54,4 @@ me.say_hi()
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 	<img src="https://img.shields.io/badge/JAVASCRIPT-00000F?style=for-the-badge&logo=JavaScript&logoColor=yellow">
 	<img src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=yellow">
-</div>
-
-<div align="center">
-  <h1>MY PROJECTS<h1>
-	<a href="https://github.com/Toxinum/hexsms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Toxinum&repo=WIPWN&theme=dark" height="100" width="300"></a>
-	<a href="https://github.com/Toxinum/axoon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Toxinum&repo=tpcracker&theme=dark" height="100" width="300"></a>
 </div>
